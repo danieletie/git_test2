@@ -1,0 +1,6 @@
+So I added a new function to enable me commit code in Vscode without havint to type in the whole
+messahes afresh!
+
+I tried to see if it would work in Vim by typing "git commit" but it wouldn't do what I need it to :(
+
+Anyways... I thought to make this new file so we can see what would happen
